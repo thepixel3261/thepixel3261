@@ -46,12 +46,12 @@ Most of my projects focus on performance, automation and scalable systems.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats]( https://github-stats-extended.vercel.app/api?username=thepixel3261&show_icons=true&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=thepixel3261&show_icons=true&theme=dark)](#)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=thepixel3261&layout=compact&theme=dark)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=thepixel3261&layout=compact&theme=dark)](#)
 
 ---
 
 ## 🌐 Profile Views
 
-![](https://komarev.com/ghpvc/?username=thepixel3261&style=for-the-badge)
+[![](https://komarev.com/ghpvc/?username=thepixel3261&style=for-the-badge)](#)
